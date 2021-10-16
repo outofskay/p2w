@@ -1,0 +1,5 @@
+name: CookieMC-DoubleJump
+version: 1.0
+author: [ CookieMC ]
+
+main: pl.cookiemc.doublejump.DJumpPlugin

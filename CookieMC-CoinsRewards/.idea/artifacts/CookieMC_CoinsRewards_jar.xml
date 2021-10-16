@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CookieMC-CoinsRewards:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CookieMC_CoinsRewards_jar</output-path>
+    <root id="archive" name="CookieMC-CoinsRewards.jar">
+      <element id="module-output" name="CookieMC-CoinsRewards" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/pl/cookiemc/coins/plugin.yml" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,5 @@
+name: CookieMC-BLive
+version: 1.0
+author: CookieMC
+
+main: pl.cookiemc.blive.Main

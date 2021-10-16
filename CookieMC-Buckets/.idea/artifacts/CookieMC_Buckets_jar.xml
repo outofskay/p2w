@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CookieMC-Buckets:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CookieMC_Buckets_jar</output-path>
+    <root id="archive" name="CookieMC-Buckets.jar">
+      <element id="module-output" name="CookieMC-Buckets" />
+    </root>
+  </artifact>
+</component>

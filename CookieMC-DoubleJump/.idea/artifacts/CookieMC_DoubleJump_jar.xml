@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CookieMC-DoubleJump:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CookieMC_DoubleJump_jar</output-path>
+    <root id="archive" name="CookieMC-DoubleJump.jar">
+      <element id="module-output" name="CookieMC-DoubleJump" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/pl/cookiemc/doublejump/plugin.yml" />
+    </root>
+  </artifact>
+</component>

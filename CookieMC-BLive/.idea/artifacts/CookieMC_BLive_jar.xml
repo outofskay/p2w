@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CookieMC-BLive:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CookieMC_BLive_jar</output-path>
+    <root id="archive" name="CookieMC-BLive.jar">
+      <element id="module-output" name="CookieMC-BLive" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/pl/cookiemc/blive/plugin.yml" />
+    </root>
+  </artifact>
+</component>

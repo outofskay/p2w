@@ -1,0 +1,15 @@
+main: pl.mymg.main.Main
+name: MGSurvival-Core
+version: 1.0
+author: OutCode - outofskay
+
+commands:
+  chat:
+  gm:
+  ulecz:
+  glod:
+  fly:
+  pomoc:
+  emotki:
+  zglos:
+  grupa:

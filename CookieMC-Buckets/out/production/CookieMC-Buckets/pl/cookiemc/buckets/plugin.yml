@@ -1,0 +1,5 @@
+name: CookieMC-Buckets
+version: 1.0
+main: pl.cookiemc.buckets.BedWarsBuckets
+author: [ CookieMC ]
+softdepend: [BedWars1058]
